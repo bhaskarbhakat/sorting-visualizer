@@ -1,6 +1,7 @@
-# [react-sort-visualizer](https://github.com/bhaskarbhakat/sorting-visualizer)
+# [react-sort-visualizer](https://sortingvisualizer2.herokuapp.com/)
+### [link](https://sortingvisualizer2.herokuapp.com/)
 
-[![banner](data/sort.gif)](https://github.com/bhaskarbhakat/sorting-visualizer)
+[![banner](data/sort.gif)](https://sortingvisualizer2.herokuapp.com/)
 
 I built this application as I was interested in how the various sorting algorithms we use looked like when visualized. This project also helped me greatly to learn JavaScript, HTML and CSS.
 
